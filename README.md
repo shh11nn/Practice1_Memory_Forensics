@@ -1,5 +1,5 @@
 # 実習1 「Volatility Framework」によるメモリフォレンジック
-Caineというフォレンジック専用のLinuxやWindows環境に直接ツールを導入したりして、フォレンジックの勉強をしていく。<br>
+Caineというフォレンジック専用のLinuxやWindows環境に直接ツールを導入して、フォレンジックの勉強をしていく。<br>
 今回はVolatility Frameworkというツールを使いメモリフォレンジックを勉強をする。<br>
 メモリフォレンジックとは電気が流れてないと覚えたことを忘れちゃうメモリ上のデータを解析する技術のことだ。<br>
 [http://sectanlab.sakura.ne.jp/sendaictf/fyi.html](http://sectanlab.sakura.ne.jp/sendaictf/fyi.html)
