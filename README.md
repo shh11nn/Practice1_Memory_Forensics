@@ -22,3 +22,4 @@ VirtualBoxの共有フォルダー機能を使い仮想環境上のCaineとリ�
 # ①ネットワーク接続状況の確認
 ![https://github.com/shh11nn/Practice1_Memory_Forensics/blob/main/practice1.png](https://github.com/shh11nn/Practice1_Memory_Forensics/blob/main/practice1.png)
 # ②不審プロセスの確認
+![https://github.com/shh11nn/Practice1_Memory_Forensics/blob/main/practice2.png](https://github.com/shh11nn/Practice1_Memory_Forensics/blob/main/practice2.png)
